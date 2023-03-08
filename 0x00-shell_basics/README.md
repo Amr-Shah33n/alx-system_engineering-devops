@@ -4,3 +4,4 @@
 3-listfiles shell script to display current directory contents in a long format
 4-listmorefiles shell script to display in long fromat current directory contents, including hidden files
 5-listfilesdigitonly shell script to display current directory content in long format with user and group IDs displayed numerically
+6-firstdirectory shell script to create a directory in a specified path
