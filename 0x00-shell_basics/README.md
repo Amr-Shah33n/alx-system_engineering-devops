@@ -9,3 +9,7 @@
 8-firstdelete shell script to delete specified file
 9-firstdirdeletion shell script to delete specified directory
 10-back shell script to change directory to the previous one
+
+11-lists shell script to output content of specified directories
+
+12-file_type shell script to output file type of specified file
