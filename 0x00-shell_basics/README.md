@@ -25,3 +25,5 @@
 12-file_type shell script to output file type of specified file
 
 13-symbolic_link shell script that creates a symbolic link for a specified directory
+
+14-copy_html shell script that copies all html files from current dir to parent dir
